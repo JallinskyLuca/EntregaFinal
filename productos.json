@@ -1,0 +1,8 @@
+[
+    { "id": 1, "nombre": "Remera", "precio": 200, "imagen": "./img/remera-blanca.png", "categoria": "Remeras" },
+    { "id": 2, "nombre": "Pantalón", "precio": 400, "imagen": "./img/pantalones.png", "categoria": "Pantalones" },
+    { "id": 3, "nombre": "Short", "precio": 150, "imagen": "./img/shorts.png", "categoria": "Pantalones" },
+    { "id": 4, "nombre": "Zapatillas", "precio": 350, "imagen": "./img/zapatillas.png", "categoria": "Calzado" },
+    { "id": 5, "nombre": "Ojotas", "precio": 150, "imagen": "./img/ojota.png", "categoria": "Calzado" },
+    { "id": 6, "nombre": "Campera", "precio": 800, "imagen": "./img/campera.png", "categoria": "Abrigos" }
+]
